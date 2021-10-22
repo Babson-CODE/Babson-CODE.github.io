@@ -3,7 +3,8 @@ import { init } from 'netlify-cms-app'
 init({
   config: {
     backend: {
-      name: 'git-gateway'
+      name: 'git-gateway',
+      branch: 'test'
     },
     load_config_file: false,
     media_folder: 'docs/images/uploads',
