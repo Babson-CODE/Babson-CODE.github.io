@@ -8,14 +8,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  Babson-CODE
 
+theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
 markdown: kramdown
 
-theme: jekyll-theme-cayman
-collections:
-  residents:
-    people: true
-  
+# theme: jekyll-theme-cayman

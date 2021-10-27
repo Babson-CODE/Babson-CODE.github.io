@@ -32,7 +32,7 @@ An analysis of complaints received by NYC Department of Housing Preservation and
 # ![](/portfolio/static/prediction.png)
 
 <span class="fs-3">
-[Read more](/_residents/julianwiley){: .btn }
+[Read more](/residents/julianwiley){: .btn }
 </span>
 
 

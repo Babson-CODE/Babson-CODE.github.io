@@ -1,0 +1,80 @@
+{"0": {
+    "doc": "Residents",
+    "title": "Data Science Portfolio",
+    "content": "Portfolio of my data science projects for course assignment and personal purposes. ",
+    "url": "http://localhost:4000/#data-science-portfolio",
+    "relUrl": "/#data-science-portfolio"
+  },"1": {
+    "doc": "Residents",
+    "title": "NYC311 Housing and Building Complaint Analysis",
+    "content": "data viz . data cleaning . scikit-learn . decision tree . flask . plotly . An analysis of complaints received by NYC Department of Housing Preservation and Development (HPD) to help manage the high-volume of complaints by suggesting the most pressing complaint as well as the area the HPD should focus on. A final project for Purwadhika Data Science and Machine Learning. ",
+    "url": "http://localhost:4000/#nyc311-housing-and-building-complaint-analysis",
+    "relUrl": "/#nyc311-housing-and-building-complaint-analysis"
+  },"2": {
+    "doc": "Residents",
+    "title": "",
+    "content": "Read more . Links . | Flask web application is available on Heroku | Notebooks and source code are available on my github. | . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"3": {
+    "doc": "Residents",
+    "title": "Campus Recruitment",
+    "content": "EDA . data viz . Analysis of academic and employability factors influencing candidate’s job placement. A Project for IBM Exploratory Data Analysis for Machine Learning course. Read more . ",
+    "url": "http://localhost:4000/#campus-recruitment",
+    "relUrl": "/#campus-recruitment"
+  },"4": {
+    "doc": "Residents",
+    "title": "House Price Prediction",
+    "content": "regression . property . Predict house price based on physical attributes related to property sales with linear regression. Different methods of regularization such as Ridge, Lasso, and Elastic Net were evaluated. This is a project for IBM Supervised Learning: Regression course. Read more . ",
+    "url": "http://localhost:4000/#house-price-prediction",
+    "relUrl": "/#house-price-prediction"
+  },"5": {
+    "doc": "Residents",
+    "title": "Browsing or Purchasing?",
+    "content": "clasification . decision tree . retail . Predict whether a customer browsing session will end with goods purchase or not based online shop customer’s browsing behavior in one year period. A Project for IBM Supervised Learning: Classification course. Read more . ",
+    "url": "http://localhost:4000/#browsing-or-purchasing",
+    "relUrl": "/#browsing-or-purchasing"
+  },"6": {
+    "doc": "Residents",
+    "title": "Online Retail Customer Segmentation",
+    "content": "clustering . kmeans . agglomerative clustering . retail . How should a retailer make an offering to their customer? What does the transaction data tell about the customers’ purchasing behavior? We will group online retailer customers using clustering techniques, with the help of Recency, Frequency, and Monetary (RFM) analysis. A Project for IBM Unsupervised Learning course. Read more . ",
+    "url": "http://localhost:4000/#online-retail-customer-segmentation",
+    "relUrl": "/#online-retail-customer-segmentation"
+  },"7": {
+    "doc": "Residents",
+    "title": "The Most Impactful Attack On Titan Episodes in Each Season",
+    "content": "EDA . google trends . pytrends . Which of the Attack On Titan season has the most impact? Which episodes garnered the most attention in each season? We’ll answer both questions using the data from Google Trends. Read more . ",
+    "url": "http://localhost:4000/#the-most-impactful-attack-on-titan-episodes-in-each-season",
+    "relUrl": "/#the-most-impactful-attack-on-titan-episodes-in-each-season"
+  },"8": {
+    "doc": "Residents",
+    "title": "Others",
+    "content": "Portfolio of my other projects in Python. ",
+    "url": "http://localhost:4000/#others",
+    "relUrl": "/#others"
+  },"9": {
+    "doc": "Residents",
+    "title": "Twitter Autobase Bot",
+    "content": "tweepy . API . Simple twitter autobase bot that posts incoming Direct Messages. Features . | Posts incoming DM that contains the trigger word. | Posts incoming DM with media. | Cuts post longer than 280 characters and posts them as a thread. | Sends a DM back for each incoming DM. | Deletes the incoming DMs once they are posted. | . Read more . Links . | Source code on my github | Tutorial on my Dev page | . ",
+    "url": "http://localhost:4000/#twitter-autobase-bot",
+    "relUrl": "/#twitter-autobase-bot"
+  },"10": {
+    "doc": "Residents",
+    "title": "Twitter RT Bot",
+    "content": "tweepy . API . sqlite . This is a simple twitter bot that collects tweets containing a certain keyword, stores them in a database file, and retweets them at a certain time window, built in Python using Tweepy. Read more . Links . | Source code on my github | . ",
+    "url": "http://localhost:4000/#twitter-rt-bot",
+    "relUrl": "/#twitter-rt-bot"
+  },"11": {
+    "doc": "Residents",
+    "title": "Residents",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"12": {
+    "doc": "testRes",
+    "title": "testRes",
+    "content": " ",
+    "url": "http://localhost:4000/residents/julianwiley.html",
+    "relUrl": "/residents/julianwiley.html"
+  }
+}
