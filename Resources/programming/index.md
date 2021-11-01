@@ -7,4 +7,4 @@ heading_anchors: true
 has_toc: false
 parent: Resources
 ---
-# Programming Language-Specific Resources
+# Programming Resources
