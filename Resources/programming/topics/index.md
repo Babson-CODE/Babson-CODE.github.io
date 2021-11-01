@@ -6,5 +6,6 @@ has_children: true
 heading_anchors: true
 has_toc: false
 parent: Programming
+grand_parent: Resources
 ---
 # Programming Resources
