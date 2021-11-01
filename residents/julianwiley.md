@@ -5,7 +5,7 @@ residentType: EBoard
 yearJoined: 2020
 status: CurrentResident
 layout: default
-parent: residents
+parent: Residents
 nav_order: 1
 ---
 
