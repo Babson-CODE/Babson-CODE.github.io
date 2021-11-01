@@ -5,6 +5,6 @@ has_children: true
 heading_anchors: true
 has_toc: false
 parent: Programming
-grandparent: Resources
+grand_parent: Resources
 ---
 test
