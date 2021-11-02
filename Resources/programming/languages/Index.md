@@ -18,3 +18,5 @@ This section of resources are programming language specific. Here, you'll find a
 |-----------------+-------------------------------------+---------------------+-------------------------------------------+------------|
 | Language        | Headline                            | Used for            | URL                                       | Notes      |
 | Python          | General purpose language; good for beginners | Good general purpose language; favored by machine learning engineers and data scientists | https://www.python.org |             |
+| React Js | Frontend Language for Web Applications | Web Apps | https://www.reactjs.org | Not really a distinct language - just a flavor of JS | 
+| R | Programming Language Designed for Data Science / Machine Learning | Machine Learning / Data Science | https://www.r-project.org |  | 
